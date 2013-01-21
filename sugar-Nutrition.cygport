@@ -1,0 +1,5 @@
+NAME="sugar-Nutrition"
+VERSION=9
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
